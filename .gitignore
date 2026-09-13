@@ -221,5 +221,5 @@ __marimo__/
 node_modules/
 playwright-report/
 test-results/
-/playwright.config.js
-tests/
+*playwright
+.tests/
